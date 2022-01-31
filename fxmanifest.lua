@@ -2,8 +2,8 @@ fx_version 'cerulean'
 games { 'gta5' }
 
 author 'MaDHouSe'
-description 'Realistic Vehicle Parking'
-version '1.0.0'
+description 'qb-debug - a small debug tool'
+version '1.0'
 
 client_scripts {
     'client.lua'
