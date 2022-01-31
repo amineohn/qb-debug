@@ -1,6 +1,6 @@
 ## QB-Debug Version 1.0 by MaDHouSe
 This is just a easy little qb-debug tool 👊😁👍
-this shows you what is a value or what the value is, same for the objects and tables.
+this shows you what a value is, same for the objects and tables.
 it shows you the tables with the data in it.
 
 ## 💪 Dependencies
