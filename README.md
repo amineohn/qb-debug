@@ -19,7 +19,7 @@ it shows you the tables with the data in it.
 exports['qb-debug']:Debug(object, true)
 ```
 
-## for String Bool int Float and other
+## for String Bool int Float and other single values
 ```
 exports['qb-debug']:Debug(value, false)
 ```
