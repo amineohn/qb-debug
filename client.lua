@@ -8,6 +8,3 @@ local function Debug(data, state)
     print("[qb-debug - By MaDHouSe] - End Debug")
 end
 exports("Debug", Debug)
-
--- DebugJson    = exports['qb-debug']:Debug(table/object, true)
--- DebugDefault = exports['qb-debug']:Debug(string/int/bool, false)
